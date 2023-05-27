@@ -2,11 +2,11 @@
 
 Este es un proyecto de un Ecommerce o tienda online, como gusten llamarlo, este proyecto fue creado con la metodología MERN, que es MongoDB, Express, React y Nodejs.
 
-> Los integrates de este grupo son:
-> **- Carlos Enrique Juantá Tax** 
-> **- Josué Eduardo Morales Tzic** 
-> **- Hairon Aurelio Yac Chávez** 
-> **- Cristopher Abrahan Paiz López**
+> **Los integrates de este grupo son:**
+> 1. Carlos Enrique Juantá Tax
+> 2. Josué Eduardo Morales Tzic
+> 3. Hairon Aurelio Yac Chávez
+> 4. Cristopher Abrahan Paiz López
 
 ## ¿Cómo ejecutar el sistema?
 
@@ -14,7 +14,7 @@ El sistema requiere [Node.js](https://nodejs.org/) para ejecutarse.
 
 Se necesita instalar todas las dependecias tanto del cliente como del server.
 
-> **cliente**
+> ### Cliente
 
 ```sh
 cd ./client
@@ -22,7 +22,7 @@ npm install
 npm run start
 ```
 
-> **Server**
+> ### Server
 
 ```sh
 cd ./server
