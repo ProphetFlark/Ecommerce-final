@@ -3,7 +3,10 @@
 Este es un proyecto de un Ecommerce o tienda online, como gusten llamarlo, este proyecto fue creado con la metodología MERN, que es MongoDB, Express, React y Nodejs.
 
 > Los integrates de este grupo son:
-> **- Carlos Enrique Juantá Tax** > **- Josué Eduardo Morales Tzic** > **- Hairon Aurelio Yac Chávez** > **- Cristopher Abrahan Paiz López**
+> **- Carlos Enrique Juantá Tax** 
+> **- Josué Eduardo Morales Tzic** 
+> **- Hairon Aurelio Yac Chávez** 
+> **- Cristopher Abrahan Paiz López**
 
 ## ¿Cómo ejecutar el sistema?
 
